@@ -1,0 +1,6 @@
+1. Automation Anywhere bot. AA supports SVN but the purpose of this excercise, code has been uploaded to Github
+2. Passwords can be stored in Credential Vault securely.
+3. Using AA's GetAllMessages command and apply filters.
+4. Yes. Use AA's PDF extraction command and excel commands.
+5. During development, use inbuilt debugger. In prod, use log files and snapshots.
+6. Use launch website to open the web application and navigate to the invoice download page. 
